@@ -1,0 +1,38 @@
+{
+    "name": "Checkout-Field-Manager",
+    "slug": "checkout-field-manager-by-dixy",
+    "author": "<a href='https://dinurasellapperuma.com'>Dinura Sellapperuma</a>",
+    "author_profile": "https://dinurasellapperuma.com",
+    "version": "2.1",
+    "download_url": "https://update.dinurasellapperuma.com/plugins/checkout-field-manager/downloads/sms-sender-by-dixy-V1.9.zip",
+    "requires": "5.5",
+    "tested": "6.6.1",
+    "requires_php": "7.4",
+    "added": "2024-05-18 00:00:00",
+    "last_updated": "2024-07-27 00:00:00",
+    "homepage": "https://dinurasellapperuma.com",
+    "sections": {
+        "description": "Sms Sender by D I X Y is a simple yet powerful plugin to send SMS directly from your WordPress dashboard. It provides an easy-to-use interface for sending individual or bulk SMS messages, making it perfect for notifications, marketing campaigns, or any situation where you need to reach your audience quickly.",
+        "installation": "<ol><li>Upload the plugin files to the <code>/wp-content/plugins/checkout-field-manager</code> directory, or install the plugin through the WordPress plugins screen directly.</li><li>Activate the plugin through the 'Plugins' screen in WordPress.</li><li>Use the Settings -> SMS Sender screen to configure the plugin. You'll need to enter your API key and sender mask.</li><li>You're ready to start sending SMS!</li></ol>",
+        "screenshots": "<ol><li>Main settings page where you configure your API key and sender mask.</li><li>SMS sending interface for composing and sending messages.</li><li>Balance checking page to monitor your SMS credit.</li></ol>",
+        "changelog": "<h4>1.9.1 - July 27, 2024</h4><ul><li>Added compatibility with WordPress 6.6.1</li><li>Improved error handling for API requests</li></ul>",
+        "faq": "<h4>How to setup this?</h4><p>You can go to wordpress setting icon setting>checkout-field-manager.</p>"
+    },
+    "banners": {
+        "low": "#",
+        "high": "#"
+    },
+    "icons": {
+        "1x": "#",
+        "2x": "#"
+    },
+    "wp_api_plugins": {
+        "rating": 95,
+        "num_ratings": 28,
+        "downloaded": 1500,
+        "active_installs": 1000,
+        "support_threads": 3,
+        "support_threads_resolved": 3
+    },
+    "upgrade_notice": "1.9 Version adds compatibility with WordPress 6.6.1 and fixes several minor bugs. It's recommended to update to ensure smooth operation with the latest WordPress version."
+}
