@@ -15,7 +15,9 @@
     "description": "Sms Sender by D I X Y is a simple yet powerful plugin to send SMS directly from your WordPress dashboard. It provides an easy-to-use interface for sending individual or bulk SMS messages, making it perfect for notifications, marketing campaigns, or any situation where you need to reach your audience quickly.",
     "installation": "<ol><li>Upload the plugin files to the <code>/wp-content/plugins/sms-sender-by-dixy</code> directory, or install the plugin through the WordPress plugins screen directly.</li><li>Activate the plugin through the 'Plugins' screen in WordPress.</li><li>Use the Settings -> SMS Sender screen to configure the plugin. You'll need to enter your API key and sender mask.</li><li>You're ready to start sending SMS!</li></ol>",
     "screenshots": "<ol><li>Main settings page where you configure your API key and sender mask.</li><li>SMS sending interface for composing and sending messages.</li><li>Balance checking page to monitor your SMS credit.</li></ol>",
-    "changelog": "<h4>1.9.1 - July 27, 2024</h4>
+    "changelog": "
+    
+    <h4>1.9 - July 27, 2024</h4>
 
     <ul>
     <li>Added compatibility with WordPress 6.6.1</li>
@@ -25,7 +27,7 @@
     <li>Fixed a bug in phone number normalization</li>
     </ul>
     
-    <h4>1.9 - May 18, 2024</h4>
+    <h4>1.8 - May 18, 2024</h4>
     
     <ul>
     <li>Added automatic update feature</li>
