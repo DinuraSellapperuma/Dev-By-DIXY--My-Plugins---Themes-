@@ -10,7 +10,7 @@
   "requires_php": "7.4",
   "added": "2024-05-18 00:00:00",
   "last_updated": "2024-08-18 00:00:00",
-  "homepage": "https://dinurasellapperuma.com",
+  "homepage": "https://github.com/DinuraSellapperuma/Sms-Sender-By-D-I-X-Y-v2",
   "sections": {
     "description": "Sms Sender by D I X Y is a simple yet powerful plugin to send SMS directly from your WordPress dashboard. It provides an easy-to-use interface for sending individual or bulk SMS messages, making it perfect for notifications, marketing campaigns, or any situation where you need to reach your audience quickly.",
     "installation": "<ol><li>Upload the plugin files to the <code>/wp-content/plugins/sms-sender-by-dixy</code> directory, or install the plugin through the WordPress plugins screen directly.</li><li>Activate the plugin through the 'Plugins' screen in WordPress.</li><li>Use the Settings -> SMS Sender screen to configure the plugin. You'll need to enter your API key and sender mask.</li><li>You're ready to start sending SMS!</li></ol>",
