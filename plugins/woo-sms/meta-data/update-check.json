@@ -1,0 +1,38 @@
+{
+  "name": "D I X Y Woocommerce SMS Alerts / OTP",
+  "slug": "woocommerce-sms-alerts-by-dixy",
+  "author": "<a href='https://dinurasellapperuma.com'>Dinura Sellapperuma</a>",
+  "author_profile": "https://dinurasellapperuma.com",
+  "version": "1.5",
+  "download_url": "https://github.com/DinuraSellapperuma/D-I-X-Y-Woocommerce-SMS-Alerts-OTP/archive/refs/heads/main.zip",
+  "requires": "5.0",
+  "tested": "6.6.1",
+  "requires_php": "7.4",
+  "added": "2024-05-18 00:00:00",
+  "last_updated": "2024-08-22 00:00:00",
+  "homepage": "https://dev.dinurasellapperuma.com/",
+  "sections": {
+    "description": "D I X Y Woocommerce SMS Alerts / OTP is a powerful plugin that enables you to send SMS alerts or OTPs directly from your WooCommerce store. This plugin is essential for adding an extra layer of security or for keeping your customers informed through SMS notifications.",
+    "installation": "<ol><li>Upload the plugin files to the <code>/wp-content/plugins/woocommerce-sms-alerts-by-dixy</code> directory, or install the plugin through the WordPress plugins screen directly.</li><li>Activate the plugin through the 'Plugins' screen in WordPress.</li><li>Use the Settings -> SMS Alerts screen to configure the plugin. You'll need to enter your API key and other necessary details.</li><li>You're ready to start sending SMS alerts!</li></ol>",
+    "screenshots": "<ol><li>Main settings page where you configure your API key and SMS settings.</li><li>SMS sending interface for sending alerts or OTPs.</li><li>Reports page to monitor the delivery of SMS messages.</li></ol>",
+    "changelog": "<h4>1.5 - Aug 22, 2024</h4><ul><li>Initial release compatible with WordPress 6.6.1</li><li>Added SMS alert feature for WooCommerce orders</li><li>Implemented OTP sending for WooCommerce login</li><li>Enhanced user interface for better usability</li></ul>",
+    "faq": "<h4>How do I get an API key?</h4><p>You can obtain an API key by registering on our SMS gateway partner's website (<a href='https://dinurasellapperuma.com'>Dinura Sellapperuma</a>). Once registered, you'll find your API key in your account dashboard.</p><h4>Can I send SMS alerts to international numbers?</h4><p>Currently, the plugin only supports SMS alerts within Sri Lanka. Make sure to include the correct country code in the phone number.</p><h4>Is there a limit to how many SMS alerts I can send?</h4><p>The limit depends on your SMS gateway plan. You can monitor your usage and balance within the plugin's reports page.</p>"
+  },
+  "banners": {
+    "low": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woocommerce-sms-alerts-banner-772x250.png",
+    "high": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woocommerce-sms-alerts-banner-1544x500.png"
+  },
+  "icons": {
+    "1x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woocommerce-sms-alerts-icon-128x128.png",
+    "2x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woocommerce-sms-alerts-icon-256x256.png"
+  },
+  "wp_api_plugins": {
+    "rating": 95,
+    "num_ratings": 15,
+    "downloaded": 800,
+    "active_installs": 600,
+    "support_threads": 2,
+    "support_threads_resolved": 2
+  },
+  "upgrade_notice": "Version 1.5 adds compatibility with WordPress 6.6.1 and introduces several new features, including SMS alerts for WooCommerce orders and OTP sending. Updating is recommended to ensure full functionality."
+}
