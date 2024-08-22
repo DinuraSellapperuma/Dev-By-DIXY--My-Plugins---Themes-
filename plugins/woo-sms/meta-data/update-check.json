@@ -34,5 +34,5 @@
     "support_threads": 2,
     "support_threads_resolved": 2
   },
-  "upgrade_notice": "Version 1.5 adds compatibility with WordPress 6.6.1 and introduces several new features, including SMS alerts for WooCommerce orders and OTP sending. Updating is recommended to ensure full functionality."
+  "upgrade_notice": "<br>Version 1.5 adds compatibility with WordPress 6.6.1 and introduces several new features, including SMS alerts for WooCommerce orders and OTP sending. Updating is recommended to ensure full functionality."
 }
