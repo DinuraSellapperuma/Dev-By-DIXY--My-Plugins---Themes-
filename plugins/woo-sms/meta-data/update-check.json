@@ -19,12 +19,12 @@
     "faq": "<h4>How do I get an API key?</h4><p>You can obtain an API key by registering on our SMS gateway partner's website (<a href='https://dinurasellapperuma.com'>Dinura Sellapperuma</a>). Once registered, you'll find your API key in your account dashboard.</p><h4>Can I send SMS alerts to international numbers?</h4><p>Currently, the plugin only supports SMS alerts within Sri Lanka. Make sure to include the correct country code in the phone number.</p><h4>Is there a limit to how many SMS alerts I can send?</h4><p>The limit depends on your SMS gateway plan. You can monitor your usage and balance within the plugin's reports page.</p>"
   },
   "banners": {
-    "low": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-banner-772x250.png",
-    "high": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-banner-1544x500.png"
+    "low": "https://update.dinurasellapperuma.com/plugins/woo-sms/includes/woo-sms-banner-772x250.png",
+    "high": "https://update.dinurasellapperuma.com/plugins/woo-sms/includes/woo-sms-banner-1544x500.png"
   },
   "icons": {
-    "1x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-icon-128x128.png",
-    "2x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-icon-256x256.png"
+    "1x": "https://update.dinurasellapperuma.com/plugins/woo-sms/includes/woo-sms-icon-128x128.png",
+    "2x": "https://update.dinurasellapperuma.com/plugins/woo-sms/includes/woo-sms-icon-256x256.png"
   },
   "wp_api_plugins": {
     "rating": 95,
