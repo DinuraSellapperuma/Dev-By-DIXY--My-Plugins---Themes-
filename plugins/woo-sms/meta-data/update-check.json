@@ -23,8 +23,8 @@
     "high": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-banner-1544x500.png"
   },
   "icons": {
-    "1x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woocommerce-sms-alerts-icon-128x128.png",
-    "2x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woocommerce-sms-alerts-icon-256x256.png"
+    "1x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-icon-128x128.png",
+    "2x": "https://update.dinurasellapperuma.com/plugins/woocommerce-sms-alerts/includes/woo-sms-icon-256x256.png"
   },
   "wp_api_plugins": {
     "rating": 95,
